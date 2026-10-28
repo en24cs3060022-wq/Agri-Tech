@@ -1,0 +1,6 @@
+{
+  "name": "AgriTech - Smart Farming & Agricultural Management Platform",
+  "description": "Empowering farmers through digital technology with real-time weather forecasting, soil health analysis, pest alerts, crop monitoring, and agricultural marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
